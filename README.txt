@@ -1,5 +1,8 @@
 Application:
 - This is an e-commerce application made using a youtube tutorial for help.
+- using php 7.4?
+- Laravel 8
+- Bootstrap 4
 
  
 Progress 08/02/2022:
